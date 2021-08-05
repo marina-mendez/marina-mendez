@@ -8,5 +8,5 @@
      Email: marina99mendez@gmail.com <br>
      LinkedIn: https://www.linkedin.com/in/marina-mendez99/ <br>
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: my code ALWAYS needs to be colorful. I'm not kidding, like REALLY COLORFUL. Otherwise I get lost.
+- ⚡ Fun fact: my code always needs to be colorful.
 
