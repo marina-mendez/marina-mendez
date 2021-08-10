@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a lot of different projects! (from my backend development career, and also of my own).
-- 🌱 I’m currently learning: Java, Javascript and Node.js
+- 🌱 I’m currently learning: Java and OOP
 - 🤔 I’m looking forward to learn: SpringBoot, Hibernate, Maven 
 - 💬 Ask me about ... a good playlist to study/work to!
 - 📫 How to reach me: <br>
