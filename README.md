@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a lot of different projects! (from my backend development career, and also of my own).
-- 🌱 I’m currently learning: PHP, Springboot, JUnit
+- 🌱 I’m currently learning: PHP and Laravel
 - 🤔 I’m looking forward to learn: Hibernate, JPA 
 - 💬 Ask me about ... a good playlist to study/work to!
 - 📫 How to reach me: <br>
